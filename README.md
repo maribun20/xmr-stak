@@ -1,5 +1,5 @@
-<a href="doc/README.md" _target="blank"><img src="doc/_img/gpu.png"></a>
-<a href="#select_coin" _target="blank"><img src="doc/_img/cpu.png"></a>
+<a href="doc/README.md" _target="crazy"><img src="doc/_img/gpu.png"></a>
+<a href="#select_coin" _target="crazy"><img src="doc/_img/cpu.png"></a>
 <table>
     <p id="select_coin">
     <tr>
